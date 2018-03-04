@@ -1,0 +1,24 @@
+본명조 한국어 서브셋 1.001 TTF 변환
+SourceHanSerif Subset KR 1.001 TTF convert
+
+서브셋 글꼴은 전체 글꼴에서 특정 글리프가 제외된 글꼴입니다. 
+
+
+Shared by 이른 YiReun 
+02rainbowblog.tumblr.com
+twitter.com/rainbowat02am
+
+
+source.typekit.com/source-han-serif
+github.com/adobe-fonts/source-han-serif/tree/release
+
+
+
+
+This Font Software is licensed under the SIL Open Font License,
+Version 1.1.
+
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+github.com/adobe-fonts/source-han-serif/blob/release/LICENSE.txt
