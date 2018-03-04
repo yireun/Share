@@ -6,7 +6,7 @@
 
 본명조는 TTF 파일이 나와 있지 않고, OTF 파일을 TTF로 바꿀 수 있는 사이트도 있지만 본명조는 용량 탓인지 사이트를 통한 변환 과정에서 오류가 생기곤 하여 TTF로 변환한 파일을 공유합니다. 
 
-[02rainbowblog.tumblr.com/post/170644847206](02rainbowblog.tumblr.com/post/170644847206)
+[02rainbowblog.tumblr.com/post/170644847206](https://02rainbowblog.tumblr.com/post/170644847206)
 
 본명조 소개 페이지: [source.typekit.com/source-han-serif/kr](https://source.typekit.com/source-han-serif/kr/)  
 GitHub: [github.com/adobe-fonts/source-han-serif/tree/release](https://github.com/adobe-fonts/source-han-serif/tree/release)  
